@@ -50,7 +50,7 @@ function Footer() {
                   <p className="samFooter">SamsMovies</p>
                 </div>
               </Link>
-              Copyright © mkvCinemas.com 2025
+              Copyright © samsmovies 2025
             </div>
           </div>
         </div>
